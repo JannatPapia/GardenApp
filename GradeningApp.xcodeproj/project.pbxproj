@@ -94,6 +94,10 @@
 		37B564DB2854643E0097BAF1 /* GradeningApp */ = {
 			isa = PBXGroup;
 			children = (
+				37B56509285465030097BAF1 /* ViewModel */,
+				37B56508285464F80097BAF1 /* Models */,
+				37B56507285464EB0097BAF1 /* Services */,
+				37B56506285464D60097BAF1 /* Screen */,
 				37B564DC2854643E0097BAF1 /* GradeningAppApp.swift */,
 				37B564DE2854643E0097BAF1 /* ContentView.swift */,
 				37B564E0285464400097BAF1 /* Assets.xcassets */,
@@ -125,6 +129,34 @@
 				37B564F9285464400097BAF1 /* GradeningAppUITestsLaunchTests.swift */,
 			);
 			path = GradeningAppUITests;
+			sourceTree = "<group>";
+		};
+		37B56506285464D60097BAF1 /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screen;
+			sourceTree = "<group>";
+		};
+		37B56507285464EB0097BAF1 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		37B56508285464F80097BAF1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		37B56509285465030097BAF1 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
